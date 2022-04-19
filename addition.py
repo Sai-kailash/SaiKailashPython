@@ -1,7 +1,5 @@
-
-def add():
-    a=int(input())
-    b=int(input())
+class Addition:
+  def add(a, b):
     return a+b
 
 

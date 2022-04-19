@@ -1,2 +1,2 @@
 from addition import Addition as a
-print(a.add())
+print(a.add(3,4))
